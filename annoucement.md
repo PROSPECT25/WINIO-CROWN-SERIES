@@ -58,7 +58,6 @@ WINIO CROWN SERIES consists of three competitive stages:
 
 - **Date:** 31 October 2026
 - **Start Time:** 14:00 CET
-- **Check-in:** Opens 24 hours before the start
 - **Platform:** FACEIT
 - **Registration:** [Register for Open Qualification #1](https://www.faceit.com/ru/championship/a21bd764-477f-4c7a-824d-b4b9efff39ee/WIN%20IO%20Female%20Cup%20OQ%201)
 
@@ -66,7 +65,6 @@ WINIO CROWN SERIES consists of three competitive stages:
 
 - **Date:** 1 November 2026
 - **Start Time:** 14:00 CET
-- **Check-in:** Opens 24 hours before the start
 - **Platform:** FACEIT
 - **Registration:** [Register for Open Qualification #2](https://www.faceit.com/ru/championship/2339aa20-de59-433b-801c-f0963b65ccfd/WIN%20IO%20Female%20Cup%20OQ%202)
 
@@ -74,7 +72,6 @@ WINIO CROWN SERIES consists of three competitive stages:
 
 - **Date:** 7 November 2026
 - **Start Time:** 14:00 CET
-- **Check-in:** Opens 24 hours before the start
 - **Platform:** FACEIT
 - **Registration:** [Register for Open Qualification #3](https://www.faceit.com/ru/championship/71cab7c1-8252-4bc0-9b4d-69955fc64983/WIN%20IO%20Female%20Cup%20OQ%203)
 
@@ -82,7 +79,6 @@ WINIO CROWN SERIES consists of three competitive stages:
 
 - **Date:** 8 November 2026
 - **Start Time:** 14:00 CET
-- **Check-in:** Opens 24 hours before the start
 - **Platform:** FACEIT
 - **Registration:** [Register for Open Qualification #4](https://www.faceit.com/ru/championship/cdd4406c-b439-47eb-b5f5-5b16e69489a1/WIN%20IO%20Female%20Cup%20OQ%204)
 
