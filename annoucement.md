@@ -36,7 +36,7 @@ WINIO CROWN SERIES consists of three competitive stages:
 
 - Dates: **21–22 November 2026**
 - Participants: **8 teams from the Group Stage**
-- Format: **Double Elimination**
+- Format: **Single Elimination**
 - All matches are **Best-of-3 (Bo3)**
 
 ---
