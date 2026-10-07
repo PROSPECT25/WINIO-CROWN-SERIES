@@ -107,7 +107,9 @@ WINIO CROWN SERIES consists of three competitive stages:
 
 ## Official Rulebook
 
-The full official tournament rulebook will be published and made available to all participants no later than two weeks before the relevant stage of the tournament.
+The official tournament rules can be found at the following [link](https://github.com/PROSPECT25/WINIO-CROWN-SERIES/blob/main/Rulebook%20WINIO%20CROWN%20SERIES%20.pdf).
+
+In the event of any discrepancy, inconsistency, or conflict between the English and Russian versions of these Rules, the English version shall prevail. The Russian version is provided for convenience and informational purposes only.
 
 ---
 
